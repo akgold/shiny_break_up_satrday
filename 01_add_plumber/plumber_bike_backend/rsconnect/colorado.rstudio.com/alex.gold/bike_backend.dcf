@@ -1,0 +1,12 @@
+name: bike_backend
+title: bike_backend
+username: alex.gold
+account: alex.gold
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 5158
+bundleId: 35466
+url: https://colorado.rstudio.com/rsc/satrdays_bike_api/
+when: 1585249261.99645
+asMultiple: FALSE
+asStatic: FALSE
